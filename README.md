@@ -47,7 +47,7 @@ Fill this in after running the queries. Two or three specific numbers make this 
 
 ### Top
 ![Top restaurants](images/q1.png)
-###Peak
+### Peak
 ![Peak_ordering](images/q10.png)
 ### Month growth
 ![strongest growth](images/q14.png)
