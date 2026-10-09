@@ -41,8 +41,11 @@ SQL analysis of a multi-table food delivery dataset (similar to Uber Eats or Del
 Fill this in after running the queries. Two or three specific numbers make this section stand out.
 
 - Top restaurant by revenue: Restaurant R073	Revenue 5169.48
-- Peak ordering window: Sunday
+- Peak ordering window: Sunday (order time not available)
 - Month with the strongest growth: 	2023-03	Growth of	21.78%
 - Relationship between rating and delivery time: There is no relationship between rating and deliverytime.
 
-
+![Top restaurants](images/q1.png)
+![Peak_ordering](images/q10.png)
+![strongest growth](images/q14.png)
+![Relationship](images/q12.png)
