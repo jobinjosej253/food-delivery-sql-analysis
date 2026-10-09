@@ -45,7 +45,11 @@ Fill this in after running the queries. Two or three specific numbers make this 
 - Month with the strongest growth: 	2023-03	Growth of	21.78%
 - Relationship between rating and delivery time: There is no relationship between rating and deliverytime.
 
+- Top
 ![Top restaurants](images/q1.png)
+- Peak
 ![Peak_ordering](images/q10.png)
+- Month growth
 ![strongest growth](images/q14.png)
+- Relationship
 ![Relationship](images/q12.png)
